@@ -28,7 +28,7 @@ const App = () => {
     if (confirmed) setItems([]);
   }
 
-  console.log({ items });
+
 
   return (
     <div className="app">
